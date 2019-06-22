@@ -56,12 +56,17 @@ a:hover {
     text-decoration: underline;
 }
 
-#logo{
-    display: inline;
+.logo{
     text-decoration: none !important;
     margin-right: 5px;
+    height: 45px;
+    width: 45px;
 }
 
+.product-image{
+   height: 350px;
+   width: 350px;
+}
 .buyMeImageUL{
     position: fixed !important;
     display: inline ;
