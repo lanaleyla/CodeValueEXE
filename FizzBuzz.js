@@ -1,6 +1,6 @@
 let n=100; //iterate fizzbuzz function untill n value;
 
-function calcFizzBuzz(n)
+function calcFizzBuzz(number)
 {
     for (let i=0;i<100;i++)
     {
@@ -13,3 +13,5 @@ function calcFizzBuzz(n)
     else console.log(i);
     }
 }
+
+calcFizzBuzz(n);
